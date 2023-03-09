@@ -28,7 +28,7 @@ public class CalculatorTest {
 
 	@After
 	public void afterEachTest() {
-		System.out.println("This is executed before each Test ");
+		System.out.println("hello world");
 	}
 
 	@Test
